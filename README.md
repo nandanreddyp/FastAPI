@@ -1,5 +1,5 @@
 # FastAPI
-FastAPI app
+My FastAPI app learning
 
 ## 1. Create Virtual Environment and installing required packages
 
